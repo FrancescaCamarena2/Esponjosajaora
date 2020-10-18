@@ -1,4 +1,4 @@
-La esponjosa y su madriguera 
+La esponjosa y su madriguera y su arbol 
 nuez
 galletas
 cuys
@@ -7,6 +7,8 @@ madriguera
 lapices
 negro
 bici
+arbol
 
 Estas son cosas de la esponjosa y
 ahora tiene su madriguera
+ahora tiene su arbol
