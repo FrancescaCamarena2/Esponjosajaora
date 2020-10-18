@@ -5,6 +5,7 @@ cuys
 musica
 madriguera
 lapices
+negro
 bici
 
 Estas son cosas de la esponjosa y
